@@ -2,7 +2,7 @@
 
 # 🏥 OPD Patient Wait-Time Analysis | SQL & Power BI
 
-Analysis of **2,549 outpatient department (OPD) visit records** to identify the root causes of long patient wait times and support data-driven process improvement in hospital operations.
+Analysis of ** outpatient department (OPD) visit records** to identify the root causes of long patient wait times and support data-driven process improvement in hospital operations.
 
 ---
 
@@ -76,7 +76,7 @@ An interactive dashboard was built to let stakeholders explore wait-time drivers
 - Bottleneck breakdown (registration delay vs. doctor delay)
 - Filters for department, doctor, shift, and date range
 
-📄 Dashboard file: [`OPD_Efficiency_Dashboard.pbix`](OPD_Efficiency_Dashboard.pbix)
+📄 Dashboard file: [`OPD_Efficiency_Dashboard.pdf`](OPD_Efficiency_Dashboard.pdf)
 
 ---
 
