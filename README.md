@@ -76,7 +76,7 @@ An interactive dashboard was built to let stakeholders explore wait-time drivers
 - Bottleneck breakdown (registration delay vs. doctor delay)
 - Filters for department, doctor, shift, and date range
 
-📄 Dashboard file: [`OPD_Efficiency_Dashboard.pdf`](OPD_Efficiency_Dashboard.pdf)
+📄 Dashboard file: [`OPD_Efficiency_Dashboard_pdf.pdf`](OPD_Efficiency_Dashboard_pdf.pdf)
 
 ---
 
